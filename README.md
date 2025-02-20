@@ -1,4 +1,6 @@
+# Chapter 1
 ## Hi there 👋
+hello my name is Marin.
 
 <!--
 **marin-debug-nasa/marin-debug-nasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
